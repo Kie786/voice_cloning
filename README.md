@@ -6,4 +6,6 @@ Mindmap of the assignment:
 
 ![image](https://github.com/Kie786/voice_cloning/assets/96609652/683fce47-c129-4144-a4da-bb036bc3f0c9)
 
+result and input video link: https://drive.google.com/drive/folders/18gglfOEYP_irc1RajqIDyLHdX9Ze3p22?usp=drive_link
+
 
